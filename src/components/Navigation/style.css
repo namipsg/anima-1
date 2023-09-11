@@ -1,0 +1,134 @@
+.navigation {
+  align-items: center;
+  background-color: var(--background);
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.navigation .nav-logo {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.navigation .div {
+  position: relative;
+}
+
+.navigation .logo {
+  height: 24px;
+  position: relative;
+  width: 182.56px;
+}
+
+.navigation .storefront {
+  height: 24px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 24px !important;
+}
+
+.navigation .NFT-marketplace {
+  height: 15px;
+  left: 33px;
+  position: absolute;
+  top: 6px;
+  width: 150px;
+}
+
+.navigation .storefront-10 {
+  height: 32px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.navigation .img {
+  height: 20px;
+  left: 44px;
+  position: absolute;
+  top: 9px;
+  width: 199px;
+}
+
+.navigation .nav-nav-menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.navigation .burger-menu {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.navigation .button-instance {
+  background-color: unset !important;
+  flex: 0 0 auto !important;
+  padding: 0px 20px !important;
+}
+
+.navigation .sign-up {
+  flex: 0 0 auto !important;
+  padding: 0px 30px !important;
+}
+
+.navigation .user-7 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.navigation.navigation-mobile {
+  padding: 15px 30px;
+  width: 375px;
+}
+
+.navigation.navigation-desktop {
+  padding: 20px 50px;
+  width: 1440px;
+}
+
+.navigation.navigation-tablet {
+  padding: 15px 50px;
+  width: 974px;
+}
+
+.navigation.navigation-mobile .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.navigation.navigation-desktop .div {
+  height: 32px;
+  width: 243.41px;
+}
+
+.navigation.navigation-tablet .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+}
+
+.navigation.navigation-mobile .nav-nav-menu {
+  gap: 20px;
+}
+
+.navigation.navigation-desktop .nav-nav-menu {
+  gap: 10px;
+}
+
+.navigation.navigation-tablet .nav-nav-menu {
+  gap: 20px;
+}

@@ -1,0 +1,1 @@
+export { AvatarWrapper } from "./AvatarWrapper";

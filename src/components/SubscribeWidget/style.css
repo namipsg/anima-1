@@ -1,0 +1,51 @@
+.subscribe-widget {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.subscribe-widget .type-form {
+  align-items: center;
+  background-color: var(--text);
+  border: 1px solid;
+  border-color: var(--caption-label-text);
+  border-radius: 20px;
+  display: flex;
+  gap: 12px;
+  height: 46px;
+  padding: 16px 20px;
+  position: relative;
+  width: 315px;
+}
+
+.subscribe-widget .enter-your-email {
+  background-color: transparent;
+  border: 0;
+  color: var(--background);
+  flex: 1;
+  flex-grow: 1;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  margin-bottom: -3px;
+  margin-top: -5px;
+  padding: 0;
+  position: relative;
+}
+
+.subscribe-widget .button-2 {
+  align-self: stretch !important;
+  display: flex !important;
+  width: 100% !important;
+}
+
+.subscribe-widget .envelope-simple {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}

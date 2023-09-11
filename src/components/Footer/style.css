@@ -1,0 +1,482 @@
+.footer {
+  background-color: var(--background-secondary);
+  display: flex;
+  flex-direction: column;
+  padding: 40px 195px;
+  position: relative;
+}
+
+.footer .footer-info {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.footer .NFT-marketplace-info {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.footer .logo-2 {
+  height: 32px;
+  position: relative;
+  width: 243.41px;
+}
+
+.footer .storefront-1 {
+  height: 32px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.footer .NFT-marketplace-2 {
+  height: 20px;
+  left: 44px;
+  position: absolute;
+  top: 9px;
+  width: 199px;
+}
+
+.footer .additional-info-2 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .text-wrapper-5 {
+  color: #cccccc;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .community-info {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.footer .text-wrapper-6 {
+  color: #cccccc;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .icons {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.footer .instance-node {
+  height: 32px !important;
+  position: relative !important;
+  width: 32px !important;
+}
+
+.footer .explore {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.footer .text-wrapper-7 {
+  color: #ffffff;
+  font-family: var(--h5-space-mono-font-family);
+  font-size: var(--h5-space-mono-font-size);
+  font-style: var(--h5-space-mono-font-style);
+  font-weight: var(--h5-space-mono-font-weight);
+  letter-spacing: var(--h5-space-mono-letter-spacing);
+  line-height: var(--h5-space-mono-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .pages {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .text-wrapper-8 {
+  color: #cccccc;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .text-wrapper-9 {
+  color: #cccccc;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .subscribe {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.footer .join-our-weekly {
+  color: #ffffff;
+  font-family: var(--h5-space-mono-font-family);
+  font-size: var(--h5-space-mono-font-size);
+  font-style: var(--h5-space-mono-font-style);
+  font-weight: var(--h5-space-mono-font-weight);
+  letter-spacing: var(--h5-space-mono-letter-spacing);
+  line-height: var(--h5-space-mono-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .subscribe-form-info {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .get-exclusive {
+  color: #cccccc;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .get-exclusive-2 {
+  align-self: stretch;
+  color: #cccccc;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .subscribe-widget-mobile {
+  flex: 0 0 auto !important;
+}
+
+.footer .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .divider {
+  align-self: stretch;
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.footer .text-wrapper-10 {
+  align-self: stretch;
+  color: #cccccc;
+  font-family: var(--caption-work-sans-font-family);
+  font-size: var(--caption-work-sans-font-size);
+  font-style: var(--caption-work-sans-font-style);
+  font-weight: var(--caption-work-sans-font-weight);
+  letter-spacing: var(--caption-work-sans-letter-spacing);
+  line-height: var(--caption-work-sans-line-height);
+  position: relative;
+}
+
+.footer .envelopesimple-3 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.footer.screen-20-desktop {
+  align-items: flex-start;
+  gap: 49px;
+  width: 1439px;
+}
+
+.footer.screen-20-tablet {
+  align-items: center;
+  gap: 49px;
+  width: 834px;
+}
+
+.footer.screen-20-mobile {
+  align-items: center;
+  gap: 30px;
+  width: 375px;
+}
+
+.footer.screen-20-desktop .footer-info {
+  align-self: stretch;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.footer.screen-20-tablet .footer-info {
+  flex-direction: column;
+  gap: 30px;
+  margin-left: -123px;
+  margin-right: -123px;
+  width: 690px;
+}
+
+.footer.screen-20-mobile .footer-info {
+  flex-direction: column;
+  gap: 30px;
+  margin-left: -165px;
+  margin-right: -165px;
+  width: 315px;
+}
+
+.footer.screen-20-desktop .NFT-marketplace-info {
+  gap: 30px;
+  padding: 0px 84px 0px 0px;
+  width: 327.41px;
+}
+
+.footer.screen-20-tablet .NFT-marketplace-info {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 20px;
+  width: 100%;
+}
+
+.footer.screen-20-mobile .NFT-marketplace-info {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 20px;
+  width: 100%;
+}
+
+.footer.screen-20-desktop .additional-info-2 {
+  display: inline-flex;
+}
+
+.footer.screen-20-tablet .additional-info-2 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.footer.screen-20-mobile .additional-info-2 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.footer.screen-20-desktop .text-wrapper-5 {
+  width: 238px;
+}
+
+.footer.screen-20-tablet .text-wrapper-5 {
+  align-self: stretch;
+}
+
+.footer.screen-20-mobile .text-wrapper-5 {
+  align-self: stretch;
+}
+
+.footer.screen-20-desktop .community-info {
+  display: inline-flex;
+}
+
+.footer.screen-20-tablet .community-info {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.footer.screen-20-mobile .community-info {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.footer.screen-20-desktop .text-wrapper-6 {
+  height: 18px;
+  white-space: nowrap;
+  width: 238px;
+}
+
+.footer.screen-20-tablet .text-wrapper-6 {
+  align-self: stretch;
+}
+
+.footer.screen-20-mobile .text-wrapper-6 {
+  align-self: stretch;
+}
+
+.footer.screen-20-desktop .explore {
+  gap: 25px;
+  width: 240px;
+}
+
+.footer.screen-20-tablet .explore {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 20px;
+  width: 100%;
+}
+
+.footer.screen-20-mobile .explore {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 20px;
+  width: 100%;
+}
+
+.footer.screen-20-desktop .text-wrapper-7 {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer.screen-20-tablet .text-wrapper-7 {
+  align-self: stretch;
+}
+
+.footer.screen-20-mobile .text-wrapper-7 {
+  align-self: stretch;
+}
+
+.footer.screen-20-desktop .pages {
+  display: inline-flex;
+}
+
+.footer.screen-20-tablet .pages {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.footer.screen-20-mobile .pages {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.footer.screen-20-desktop .subscribe {
+  display: inline-flex;
+  gap: 25px;
+}
+
+.footer.screen-20-tablet .subscribe {
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  width: 100%;
+}
+
+.footer.screen-20-mobile .subscribe {
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  width: 100%;
+}
+
+.footer.screen-20-desktop .join-our-weekly {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer.screen-20-tablet .join-our-weekly {
+  align-self: stretch;
+}
+
+.footer.screen-20-mobile .join-our-weekly {
+  align-self: stretch;
+}
+
+.footer.screen-20-desktop .subscribe-form-info {
+  display: inline-flex;
+}
+
+.footer.screen-20-tablet .subscribe-form-info {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.footer.screen-20-mobile .subscribe-form-info {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.footer.screen-20-desktop .get-exclusive {
+  width: 330px;
+}
+
+.footer.screen-20-tablet .get-exclusive {
+  align-self: stretch;
+}
+
+.footer.screen-20-desktop .frame-2 {
+  align-self: stretch;
+  width: 100%;
+}
+
+.footer.screen-20-tablet .frame-2 {
+  margin-left: -123px;
+  margin-right: -123px;
+  width: 690px;
+}
+
+.footer.screen-20-mobile .frame-2 {
+  margin-left: -165px;
+  margin-right: -165px;
+  width: 315px;
+}

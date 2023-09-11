@@ -1,0 +1,87 @@
+.tab-bar {
+  align-items: center;
+  background-color: var(--background);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.tab-bar .tabs-instance {
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+}
+
+.tab-bar .class {
+  font-family: "Work Sans", Helvetica !important;
+  font-size: 16px !important;
+  font-style: unset !important;
+  font-weight: 600 !important;
+  letter-spacing: 0 !important;
+  line-height: 22.4px !important;
+}
+
+.tab-bar .class-2 {
+  font-family: "Work Sans", Helvetica !important;
+  font-size: 16px !important;
+  font-style: unset !important;
+  font-weight: 600 !important;
+  letter-spacing: 0 !important;
+  line-height: 22.4px !important;
+  margin-left: -5.62px !important;
+  margin-right: -5.62px !important;
+}
+
+.tab-bar .class-3 {
+  font-family: "Work Sans", Helvetica !important;
+  font-size: 16px !important;
+  font-style: unset !important;
+  font-weight: 600 !important;
+  letter-spacing: 0 !important;
+  line-height: 22.4px !important;
+  margin-left: -23.12px !important;
+  margin-right: -23.12px !important;
+}
+
+.tab-bar .class-4 {
+  font-family: "Work Sans", Helvetica !important;
+  font-size: 16px !important;
+  font-style: unset !important;
+  font-weight: 600 !important;
+  letter-spacing: 0 !important;
+  line-height: 22.4px !important;
+  margin-left: -0.12px !important;
+  margin-right: -0.12px !important;
+}
+
+.tab-bar .class-5 {
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 680px !important;
+}
+
+.tab-bar .class-6 {
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 315px !important;
+}
+
+.tab-bar .class-7 {
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 1050px !important;
+}
+
+.tab-bar.screen-2-desktop {
+  width: 1280px;
+}
+
+.tab-bar.screen-2-tablet {
+  width: 834px;
+}
+
+.tab-bar.screen-2-mobile {
+  width: 375px;
+}

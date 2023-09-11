@@ -1,0 +1,134 @@
+.headline-subhead {
+  align-items: center;
+  background-color: var(--background);
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.headline-subhead .div-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.headline-subhead .headline {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.headline-subhead .text-wrapper {
+  color: var(--white);
+  flex: 1;
+  margin-top: -1px;
+  position: relative;
+}
+
+.headline-subhead .subhead {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.headline-subhead .p {
+  align-self: stretch;
+  color: var(--white);
+  margin-top: -1px;
+  position: relative;
+}
+
+.headline-subhead.desktop {
+  padding: 80px 0px;
+  width: 1280px;
+}
+
+.headline-subhead.default {
+  padding: 30px 0px;
+  width: 375px;
+}
+
+.headline-subhead.tablet {
+  padding: 80px 0px;
+  width: 834px;
+}
+
+.headline-subhead.desktop .div-2 {
+  gap: 20px;
+  width: 1050px;
+}
+
+.headline-subhead.default .div-2 {
+  gap: 10px;
+  width: 315px;
+}
+
+.headline-subhead.tablet .div-2 {
+  gap: 20px;
+  width: 690px;
+}
+
+.headline-subhead.desktop .text-wrapper {
+  font-family: var(--h2-work-sans-font-family);
+  font-size: var(--h2-work-sans-font-size);
+  font-style: var(--h2-work-sans-font-style);
+  font-weight: var(--h2-work-sans-font-weight);
+  letter-spacing: var(--h2-work-sans-letter-spacing);
+  line-height: var(--h2-work-sans-line-height);
+}
+
+.headline-subhead.default .text-wrapper {
+  font-family: var(--h4-work-sans-font-family);
+  font-size: var(--h4-work-sans-font-size);
+  font-style: var(--h4-work-sans-font-style);
+  font-weight: var(--h4-work-sans-font-weight);
+  letter-spacing: var(--h4-work-sans-letter-spacing);
+  line-height: var(--h4-work-sans-line-height);
+}
+
+.headline-subhead.tablet .text-wrapper {
+  font-family: var(--h3-work-sans-font-family);
+  font-size: var(--h3-work-sans-font-size);
+  font-style: var(--h3-work-sans-font-style);
+  font-weight: var(--h3-work-sans-font-weight);
+  letter-spacing: var(--h3-work-sans-letter-spacing);
+  line-height: var(--h3-work-sans-line-height);
+}
+
+.headline-subhead.desktop .p {
+  font-family: "Work Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 35.2px;
+}
+
+.headline-subhead.default .p {
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+}
+
+.headline-subhead.tablet .p {
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+}

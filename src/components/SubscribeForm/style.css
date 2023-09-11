@@ -1,0 +1,40 @@
+.subscribe-form {
+  align-items: center;
+  background-color: var(--text);
+  border-radius: 20px;
+  display: flex;
+  gap: 12px;
+  height: 60px;
+  padding: 16px 0px 16px 20px;
+  position: relative;
+  width: 420px;
+}
+
+.subscribe-form .input {
+  background-color: transparent;
+  border: 0;
+  color: var(--background);
+  flex: 1;
+  flex-grow: 1;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  padding: 0;
+  position: relative;
+}
+
+.subscribe-form .button-3 {
+  flex: 0 0 auto !important;
+  justify-content: flex-end !important;
+  margin-bottom: -16px !important;
+  margin-top: -16px !important;
+}
+
+.subscribe-form .envelopesimple-15 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}

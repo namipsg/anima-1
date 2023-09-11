@@ -1,0 +1,271 @@
+.artist-card {
+  background-color: #3b3b3b;
+  border-radius: 20px;
+  padding: 20px;
+  position: relative;
+}
+
+.artist-card .artist-avatar {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.artist-card .class-8 {
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 60px !important;
+}
+
+.artist-card .class-9 {
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 110px !important;
+}
+
+.artist-card .artist-info {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+}
+
+.artist-card .dish-studio {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: var(--h5-work-sans-font-family);
+  font-size: var(--h5-work-sans-font-size);
+  font-style: var(--h5-work-sans-font-style);
+  font-weight: var(--h5-work-sans-font-weight);
+  letter-spacing: var(--h5-work-sans-letter-spacing);
+  line-height: var(--h5-work-sans-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.artist-card .additional-info {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.artist-card .total-sales {
+  color: var(--caption-label-text);
+  flex: 1;
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.artist-card .element-ETH {
+  color: var(--text);
+  flex: 1;
+  font-family: var(--base-body-space-mono-font-family);
+  font-size: var(--base-body-space-mono-font-size);
+  font-style: var(--base-body-space-mono-font-style);
+  font-weight: var(--base-body-space-mono-font-weight);
+  letter-spacing: var(--base-body-space-mono-letter-spacing);
+  line-height: var(--base-body-space-mono-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.artist-card .ranking-number {
+  background-color: var(--background);
+  border-radius: 20px;
+  height: 30px;
+  position: absolute;
+  width: 30px;
+}
+
+.artist-card .element-2 {
+  color: var(--caption-label-text);
+  font-family: var(--base-body-space-mono-font-family);
+  font-size: var(--base-body-space-mono-font-size);
+  font-style: var(--base-body-space-mono-font-style);
+  font-weight: var(--base-body-space-mono-font-weight);
+  height: 22px;
+  left: 10px;
+  letter-spacing: var(--base-body-space-mono-letter-spacing);
+  line-height: var(--base-body-space-mono-line-height);
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.artist-card .avatar-instance {
+  flex: 0 0 auto !important;
+  transition: all 0.3s ease !important;
+}
+
+.artist-card .dish-studio-2 {
+  color: #ffffff;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artist-card .avatar-1-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.artist-card .design-component-instance-node {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-5@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.artist-card.property-1-horizontal-medium {
+  align-items: center;
+  display: inline-flex;
+  gap: 12px;
+  transition: all 0.3s ease;
+}
+
+.artist-card.property-1-default {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  transition: all 0.3s ease;
+  width: 240px;
+}
+
+.artist-card.property-1-horizontal-small {
+  align-items: center;
+  display: inline-flex;
+  gap: 12px;
+}
+
+.artist-card.property-1-horizontal-big {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  transition: all 0.3s ease;
+  width: 315px;
+}
+
+.artist-card.property-1-horizontal-medium .artist-info {
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.artist-card.property-1-default .artist-info {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.artist-card.property-1-horizontal-small .artist-info {
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.artist-card.property-1-horizontal-big .artist-info {
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.artist-card.property-1-default .dish-studio {
+  text-align: center;
+}
+
+.artist-card.property-1-horizontal-medium .additional-info {
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.artist-card.property-1-default .additional-info {
+  align-items: flex-start;
+  gap: 10px;
+  justify-content: center;
+}
+
+.artist-card.property-1-horizontal-small .additional-info {
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.artist-card.property-1-horizontal-big .additional-info {
+  align-items: center;
+  gap: 5px;
+}
+
+.artist-card.property-1-default .total-sales {
+  text-align: right;
+}
+
+.artist-card.property-1-horizontal-medium .ranking-number {
+  left: 20px;
+  top: 18px;
+}
+
+.artist-card.property-1-default .ranking-number {
+  left: 20px;
+  top: 18px;
+}
+
+.artist-card.property-1-horizontal-small .ranking-number {
+  left: 20px;
+  top: 18px;
+}
+
+.artist-card.property-1-horizontal-big .ranking-number {
+  left: 12px;
+  top: 13px;
+}
+
+.artist-card.property-1-horizontal-medium .dish-studio-2 {
+  font-family: var(--h5-work-sans-font-family);
+  font-size: var(--h5-work-sans-font-size);
+  font-style: var(--h5-work-sans-font-style);
+  font-weight: var(--h5-work-sans-font-weight);
+  letter-spacing: var(--h5-work-sans-letter-spacing);
+  line-height: var(--h5-work-sans-line-height);
+  margin-top: -1px;
+}
+
+.artist-card.property-1-default .dish-studio-2 {
+  font-family: var(--h5-work-sans-font-family);
+  font-size: var(--h5-work-sans-font-size);
+  font-style: var(--h5-work-sans-font-style);
+  font-weight: var(--h5-work-sans-font-weight);
+  letter-spacing: var(--h5-work-sans-letter-spacing);
+  line-height: var(--h5-work-sans-line-height);
+}
+
+.artist-card.property-1-horizontal-small .dish-studio-2 {
+  font-family: var(--base-body-work-sans-font-family);
+  font-size: var(--base-body-work-sans-font-size);
+  font-style: var(--base-body-work-sans-font-style);
+  font-weight: var(--base-body-work-sans-font-weight);
+  letter-spacing: var(--base-body-work-sans-letter-spacing);
+  line-height: var(--base-body-work-sans-line-height);
+}
+
+.artist-card.property-1-horizontal-big .dish-studio-2 {
+  font-family: var(--h5-work-sans-font-family);
+  font-size: var(--h5-work-sans-font-size);
+  font-style: var(--h5-work-sans-font-style);
+  font-weight: var(--h5-work-sans-font-weight);
+  letter-spacing: var(--h5-work-sans-letter-spacing);
+  line-height: var(--h5-work-sans-line-height);
+}

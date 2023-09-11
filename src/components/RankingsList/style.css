@@ -1,0 +1,232 @@
+.rankings-list {
+  align-items: center;
+  background-color: var(--background);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px 0px;
+  position: relative;
+}
+
+.rankings-list .class-14 {
+  height: 48px !important;
+  margin-top: -1px !important;
+}
+
+.rankings-list .class-15 {
+  flex: 0 0 auto !important;
+  margin-top: -1px !important;
+}
+
+.rankings-list .class-16 {
+  flex: 0 0 auto !important;
+}
+
+.rankings-list .class-17 {
+  left: 1px !important;
+}
+
+.rankings-list .class-18 {
+  left: 5px !important;
+}
+
+.rankings-list .avatar-10 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-73@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .avatar-14 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-77@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .avatar-7 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-71@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .avatar-3-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-67@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .avatar-5-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-69@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .avatar-8-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-72@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .avatar-4-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-68@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .asset-4 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .avatar-6-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-70@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .avatar-9-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-1@2x.png) !important;
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.rankings-list .asset-5 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-5@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-2-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-32@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .asset-6 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-33@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .asset-7 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-34@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .asset-8 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-35@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .asset-9 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-36@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-7-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-37@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .asset-10 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-38@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .asset-11 {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-18@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-10-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-39@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-11-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-40@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-12-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-41@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-13-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-42@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-14-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-43@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-15-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-44@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-16-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-45@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list .avatar-17-instance {
+  background-image: url(https://cdn.animaapp.com/projects/62975db08ae6b4ad16b0e408/releases/64fefeced977b32f06dd2869/img/avatar-placeholder-46@2x.png) !important;
+  height: 60px !important;
+  position: relative !important;
+  width: 60px !important;
+}
+
+.rankings-list.screen-19-desktop {
+  width: 1280px;
+}
+
+.rankings-list.screen-19-tablet {
+  width: 834px;
+}
+
+.rankings-list.screen-19-mobile {
+  width: 375px;
+}

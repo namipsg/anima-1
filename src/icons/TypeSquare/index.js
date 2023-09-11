@@ -1,0 +1,1 @@
+export { TypeSquare } from "./TypeSquare";

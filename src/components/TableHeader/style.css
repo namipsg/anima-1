@@ -1,0 +1,241 @@
+.table-header {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--background-secondary);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px 0px;
+  position: relative;
+}
+
+.table-header .table-headers {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.table-header .rank-artist {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.table-header .text-wrapper-2 {
+  color: var(--caption-label-text);
+  font-family: var(--base-body-space-mono-font-family);
+  font-size: var(--base-body-space-mono-font-size);
+  font-style: var(--base-body-space-mono-font-style);
+  font-weight: var(--base-body-space-mono-font-weight);
+  letter-spacing: var(--base-body-space-mono-letter-spacing);
+  line-height: var(--base-body-space-mono-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.table-header .text-wrapper-3 {
+  color: var(--caption-label-text);
+  position: relative;
+}
+
+.table-header .stats-header {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.table-header .change {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.table-header .change-2 {
+  align-self: stretch;
+  color: var(--caption-label-text);
+  margin-top: -1px;
+  position: relative;
+}
+
+.table-header .nfts-sold {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.table-header .div-3 {
+  align-self: stretch;
+  color: var(--caption-label-text);
+  font-family: var(--base-body-space-mono-font-family);
+  font-size: var(--base-body-space-mono-font-size);
+  font-style: var(--base-body-space-mono-font-style);
+  font-weight: var(--base-body-space-mono-font-weight);
+  letter-spacing: var(--base-body-space-mono-letter-spacing);
+  line-height: var(--base-body-space-mono-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.table-header .volume {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.table-header.screen-3-desktop {
+  width: 1052px;
+}
+
+.table-header.screen-3-tablet {
+  width: 692px;
+}
+
+.table-header.screen-3-mobile {
+  width: 317px;
+}
+
+.table-header.screen-3-desktop .table-headers {
+  justify-content: space-between;
+  padding: 0px 20px;
+  width: 1050px;
+}
+
+.table-header.screen-3-tablet .table-headers {
+  justify-content: space-between;
+  padding: 0px 20px;
+  width: 690px;
+}
+
+.table-header.screen-3-mobile .table-headers {
+  padding: 0px 10px;
+  width: 315px;
+}
+
+.table-header.screen-3-desktop .rank-artist {
+  gap: 20px;
+  width: 430px;
+}
+
+.table-header.screen-3-tablet .rank-artist {
+  gap: 20px;
+  width: 430px;
+}
+
+.table-header.screen-3-mobile .rank-artist {
+  gap: 10px;
+  width: 215px;
+}
+
+.table-header.screen-3-desktop .text-wrapper-2 {
+  width: 30px;
+}
+
+.table-header.screen-3-tablet .text-wrapper-2 {
+  width: 30px;
+}
+
+.table-header.screen-3-mobile .text-wrapper-2 {
+  width: 24px;
+}
+
+.table-header.screen-3-desktop .text-wrapper-3 {
+  font-family: var(--base-body-space-mono-font-family);
+  font-size: var(--base-body-space-mono-font-size);
+  font-style: var(--base-body-space-mono-font-style);
+  font-weight: var(--base-body-space-mono-font-weight);
+  letter-spacing: var(--base-body-space-mono-letter-spacing);
+  line-height: var(--base-body-space-mono-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.table-header.screen-3-tablet .text-wrapper-3 {
+  font-family: var(--base-body-space-mono-font-family);
+  font-size: var(--base-body-space-mono-font-size);
+  font-style: var(--base-body-space-mono-font-style);
+  font-weight: var(--base-body-space-mono-font-weight);
+  letter-spacing: var(--base-body-space-mono-letter-spacing);
+  line-height: var(--base-body-space-mono-line-height);
+  margin-top: -1px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.table-header.screen-3-mobile .text-wrapper-3 {
+  flex: 1;
+  font-family: var(--caption-space-mono-font-family);
+  font-size: var(--caption-space-mono-font-size);
+  font-style: var(--caption-space-mono-font-style);
+  font-weight: var(--caption-space-mono-font-weight);
+  letter-spacing: var(--caption-space-mono-letter-spacing);
+  line-height: var(--caption-space-mono-line-height);
+}
+
+.table-header.screen-3-mobile .stats-header {
+  margin-right: -20px;
+}
+
+.table-header.screen-3-desktop .change {
+  width: 160px;
+}
+
+.table-header.screen-3-tablet .change {
+  width: 100px;
+}
+
+.table-header.screen-3-mobile .change {
+  width: 100px;
+}
+
+.table-header.screen-3-desktop .change-2 {
+  font-family: var(--base-body-space-mono-font-family);
+  font-size: var(--base-body-space-mono-font-size);
+  font-style: var(--base-body-space-mono-font-style);
+  font-weight: var(--base-body-space-mono-font-weight);
+  letter-spacing: var(--base-body-space-mono-letter-spacing);
+  line-height: var(--base-body-space-mono-line-height);
+}
+
+.table-header.screen-3-tablet .change-2 {
+  font-family: var(--base-body-space-mono-font-family);
+  font-size: var(--base-body-space-mono-font-size);
+  font-style: var(--base-body-space-mono-font-style);
+  font-weight: var(--base-body-space-mono-font-weight);
+  letter-spacing: var(--base-body-space-mono-letter-spacing);
+  line-height: var(--base-body-space-mono-line-height);
+}
+
+.table-header.screen-3-mobile .change-2 {
+  font-family: var(--caption-space-mono-font-family);
+  font-size: var(--caption-space-mono-font-size);
+  font-style: var(--caption-space-mono-font-style);
+  font-weight: var(--caption-space-mono-font-weight);
+  letter-spacing: var(--caption-space-mono-letter-spacing);
+  line-height: var(--caption-space-mono-line-height);
+}
+
+.table-header.screen-3-desktop .nfts-sold {
+  width: 160px;
+}
+
+.table-header.screen-3-tablet .nfts-sold {
+  width: 100px;
+}
+
+.table-header.screen-3-mobile .nfts-sold {
+  width: 160px;
+}

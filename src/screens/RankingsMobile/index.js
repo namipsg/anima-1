@@ -1,0 +1,1 @@
+export { RankingsMobile } from "./RankingsMobile";
